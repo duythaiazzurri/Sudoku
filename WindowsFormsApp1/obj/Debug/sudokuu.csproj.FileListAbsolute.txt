@@ -1,0 +1,10 @@
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sudokuu.csprojAssemblyReference.cache
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sudokuu.Form1.resources
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sudokuu.csproj.GenerateResource.cache
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\sudokuu.csproj.CoreCompileInputs.cache
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Thai Thoi Tha\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
